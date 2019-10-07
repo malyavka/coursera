@@ -19,5 +19,6 @@ int main() {
 
 // Output:
 // Value: 7
+// * exactly the large number!
 // Address: 0x7ffeef9eb858
 
