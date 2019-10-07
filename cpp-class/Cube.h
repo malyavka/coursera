@@ -5,7 +5,7 @@
  *   Wade Fagen-Ulmschneider <waf@illinois.edu>
  */
 
-// All header (.h) files start with "#pragma once":
+// All header (.h) files start with "#pragma once": compile just once!
 #pragma once
 
 // A class is defined with the `class` keyword, the name
