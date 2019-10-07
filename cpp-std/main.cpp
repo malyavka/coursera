@@ -9,6 +9,7 @@
 #include "Cube.h"
 
 int main() {
+    //uuic - This uiuc namespace is added to the Cube class in the h-file, by simply surrounding everything by the word namespace uiuc and curly braces
   uiuc::Cube c;
   c.setLength(2.4);
   std::cout << "Volume: " << c.getVolume() << std::endl;
