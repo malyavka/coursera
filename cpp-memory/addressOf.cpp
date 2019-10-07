@@ -11,9 +11,13 @@ int main() {
   int num = 7;
 
   std::cout << "Value: "   <<  num << std::endl;
+  //& returns the memory address
   std::cout << "Address: " << &num << std::endl;
 
   return 0;
 }
 
+// Output:
+// Value: 7
+// Address: 0x7ffeef9eb858
 
