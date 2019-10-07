@@ -22,3 +22,5 @@ int main() {
 // * exactly the large number!
 // Address: 0x7ffeef9eb858
 
+
+/* So, given the length of this number, that's 12 or 13 hexadecimal digits long, we know that this is a very high memory address, which is exactly what we expect of stack memory. Let's look at why this is a high memory address and understand exactly how the memory works in our computer. */
