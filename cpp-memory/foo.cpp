@@ -22,3 +22,10 @@ int main() {
 
   return 0;
 }
+
+
+// output:
+//  num in main(): 7
+//   &num in main(): 0x7ffee3943868
+//    x in foo(): 42
+//   &x in foo(): 0x7ffee394383c
