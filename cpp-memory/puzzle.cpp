@@ -41,3 +41,9 @@ double someOtherFunction() {
 
   return totalVolume;
 }
+
+//
+//int *i = new int;
+//*i = 0;
+//int &j = *i;
+//j++;
